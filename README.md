@@ -7,7 +7,7 @@
 
 # Apoio, suporte
 [![Watch the video](https://img.youtube.com/vi/LAJfrWPm4NU/maxresdefault.jpg)](https://www.youtube.com/watch?v=LAJfrWPm4NU)
-> olá, você pode se inscrever <a href="https://m.youtube.com/@Termuxhacker131">Termux Hacker</a> para vídeos interessantes OU siga <a href="https://muxhacke.blogspot.com">Mr Idealhat</a>Site do Blogger para blogs interessantes. Procurar <a href="https://m.youtube.com/@alvarinholuis">"Alvarinho Luis"</a> subrescreva-se para mais videos. 
+> olá, você pode se inscrever <a href="https://m.youtube.com/@Termuxhacker131">Termux Hacker</a> para vídeos interessantes OU siga <a href="https://muxhacke.blogspot.com"> O Termux Hacker </a>Site do Blogger para blogs interessantes. Procurar <a href="https://m.youtube.com/@alvarinholuis">"Alvarinho Luis"</a> subrescreva-se para mais videos. 
 
 # Privilégios falsos de root
 Esta ferramenta ajuda você a acessar os falsos privilégios de root no termux. Para acessar os falsos privilégios de root no termux, basta digitar <pre>fakeroot</pre> em termux. E aqui está, agora você obteve o falso acesso de privilégios de root no termux..
