@@ -53,8 +53,8 @@ echo "[*] Feito"
 sleep 1.5
 
 clear
-echo -e "\e[1;34mType \e[1;32mfalso\e[1;34m para accessar o falso root privigeliado"
-echo -e "TYPE \e[1;32mroot\e[1;34m PARA ACESSAR PRIVILÉGIOS ROOT REAIS"
+echo -e "\e[1;34mESCREVA \e[1;32mroot\e[1;34m para accessar o falso root privigeliado"
+echo -e "ESCREVA \e[1;32falso\e[1;34m PARA ACESSAR PRIVILÉGIOS ROOT REAIS"
 read
 
 clear
