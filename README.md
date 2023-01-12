@@ -1,5 +1,5 @@
 # Root
-> <b>Isso não é como o root real do linux</b> and termux users. This tool will also help you to gain the look of Kali-Linux in your termux with root access.<br><br>
+> <b>Isso não é como o root real do linux</b>e usos do termux. Esta ferramenta também ajudará você a obter a aparência do Kali-Linux no seu termux com acesso root.<br><br>
 
 <centre>
 <img src="https://github.com/adarshaddee/root/blob/main/images/Img2.jpg" alt="root termux" title="root termux" width="100%" />
@@ -12,24 +12,24 @@
 # Privilégios falsos de root
 Esta ferramenta ajuda você a acessar os falsos privilégios de root no termux. Para acessar os falsos privilégios de root no termux, basta digitar <pre>fakeroot</pre> em termux. E aqui está, agora você obteve o falso acesso de privilégios de root no termux..
 
-# Real Root Privileges
+# Privilégios Reais do root
 Esta ferramenta também ajuda a acessar os privilégios reais de root no termux. O que é mais poderoso e mais forte do que privilégios de root falsos. Para acessar o root  real privilégios apenas digite <pre>root</pre> no teu termux.E aqui está, você tem acesso ao verdadeiro privilégio de root no termux sem fazer root no seu dispositivo apenas com esta ferramenta (Root)
 
 # Instalação
-<pre>apt-get update && apt-get upgrade -y</pre>
-<pre>apt-get install git -y</pre>
+<pre>pkg update && pkg upgrade -y</pre>
+<pre>pkg install git -y</pre>
 <pre>git clone https://github.com/adarshaddee/root.git</pre>
 <pre>cd root</pre>
 <pre>chmod +x main</pre>
 <pre>./main</pre>
 
-# Add-ons
-You can use <pre>fish</pre> command to make your termux more attractive.<br><br>
+# Complementos
+Podes usar <pre>fish</pre> o comando para deixar o termux mais atraente.<br><br>
 
 # Instalação de uma linha
 <pre>pkg  update && pkg  upgrade -y && pkg  install git -y && git clone https://github.com/adarshaddee/root.git</pre>
 
-# Uninstall
+# Desistalar
 Você pode desinstalar o root com os seguintes comandos mostrados aqui:
 <pre>cd root</pre>
 <pre>chmod +x uninstall.sh</pre>
