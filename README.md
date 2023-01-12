@@ -31,7 +31,7 @@ Podes usar <pre>fish</pre> o comando para deixar o termux mais atraente.<br><br>
 
 # Desistalar
 Você pode desinstalar o root com os seguintes comandos mostrados aqui:
-<pre>cd root</pre>
+<pre>cd rootfalso</pre>
 <pre>chmod +x uninstall.sh</pre>
 <pre>./uninstall.sh</pre>
 
