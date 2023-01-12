@@ -23,6 +23,7 @@ if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
 	}
 fi
 alias root='proot -0 login'
+fi
 alias rootfalso='fakeroot'
 clear
 echo -e "\e[1;31m"
