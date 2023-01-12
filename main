@@ -18,8 +18,8 @@ mv /data/data/com.termux/files/usr/etc/bash.bashrc /data/data/com.termux/files/u
 cp -v bash.bashrc /data/data/com.termux/files/usr/etc/bash.bashrc
 clear
 
-apt-get update && apt-get upgrade -y
-apt-get install fish  ncurses-utils proot proot-distro tsu fakeroot parted -y
+pkg update && apt-get upgrade -y
+pkg install fish  ncurses-utils proot proot-distro tsu rootfalso parted -y
 
 clear
 
