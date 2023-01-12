@@ -18,7 +18,7 @@ Esta ferramenta também ajuda a acessar os privilégios reais de root no termux.
 # Instalação
 <pre>pkg update && pkg upgrade -y</pre>
 <pre>pkg install git -y</pre>
-<pre>git clone https://github.com/adarshaddee/root.git</pre>
+<pre>git clone https://github.com/Alvax12/rootfalso</pre>
 <pre>cd root</pre>
 <pre>chmod +x main</pre>
 <pre>./main</pre>
